@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CHOI.</title>
-    <link>https://example.org/</link>
+    <link>https://jisun-choi.github.io/choi/</link>
     <description>Recent content on CHOI.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Apr 2021 13:12:48 +0900</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Apr 2021 13:12:48 +0900</lastBuildDate><atom:link href="https://jisun-choi.github.io/choi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TO BE ANNOUNCED</title>
-      <link>https://example.org/portfolio/work1/</link>
+      <link>https://jisun-choi.github.io/choi/portfolio/work1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/portfolio/work1/</guid>
+      <guid>https://jisun-choi.github.io/choi/portfolio/work1/</guid>
       <description></description>
     </item>
     

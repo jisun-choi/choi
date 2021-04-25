@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jisun on CHOI.</title>
-    <link>https://example.org/about/</link>
+    <link>https://jisun-choi.github.io/choi/about/</link>
     <description>Recent content in Jisun on CHOI.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Apr 2021 13:12:48 +0900</lastBuildDate><atom:link href="https://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Apr 2021 13:12:48 +0900</lastBuildDate><atom:link href="https://jisun-choi.github.io/choi/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

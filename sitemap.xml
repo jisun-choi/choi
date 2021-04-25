@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://jisun-choi.github.io/choi/</loc>
     <lastmod>2021-04-24T13:12:48+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://jisun-choi.github.io/choi/about/</loc>
     <lastmod>2021-04-24T13:12:48+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://jisun-choi.github.io/choi/categories/</loc>
   </url><url>
-    <loc>https://example.org/portfolio/</loc>
+    <loc>https://jisun-choi.github.io/choi/portfolio/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://jisun-choi.github.io/choi/tags/</loc>
   </url><url>
-    <loc>https://example.org/portfolio/work1/</loc>
+    <loc>https://jisun-choi.github.io/choi/portfolio/work1/</loc>
   </url>
 </urlset>
