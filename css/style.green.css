@@ -390,9 +390,10 @@ SIDEBAR + RIGHT COLUMN
 }
 
 .sidebar-heading {
-  font-size: 18px;
+  font-size: 25px;
+  font-weight: bold;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.05em;
 }
 
 .sidebar-heading a {
@@ -2297,14 +2298,14 @@ h6,
 .h5,
 .h6 {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
-  font-weight: 700;
+  font-weight: 600;
   line-height: 1.2;
   color: #555555;
 }
 
 h1,
 .h1 {
-  font-size: 48px;
+  font-size: 40px;
 }
 
 h2,
