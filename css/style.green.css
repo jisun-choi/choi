@@ -415,6 +415,7 @@ SIDEBAR + RIGHT COLUMN
 .sidebar-p {
   color: #999999;
   font-size: 14px;
+  margin: 0 0 24px;
 }
 
 .sidebar-menu {
