@@ -405,9 +405,11 @@ SIDEBAR + RIGHT COLUMN
 }
 
 .sidebar-heading a:hover {
-  border-bottom: dotted 1px #2b7551;
-  color: #000;
+  /* border-bottom: dotted 1px #2b7551; */
+  background-color: lightgrey;
+  color: #fff;
   text-decoration: none;
+  /* -webkit-text-stroke: 1px #000; */
 }
 
 .sidebar-p {
@@ -437,21 +439,22 @@ SIDEBAR + RIGHT COLUMN
 }
 
 .sidebar-menu li.active a {
-  color: #2b7551;
+  color: #40755b;
   font-weight: bold;
 }
 
 .sidebar-menu li.active:before {
-  color: #2b7551;
+  color: #40755b;
 }
 
 .sidebar-menu li:hover a {
   text-decoration: none;
-  color: #2b7551;
+  background-color: lightgrey;
+  color: #fff;
 }
 
 .sidebar-menu li:hover:before {
-  color: #2b7551;
+  color: #555555;
 }
 
 .content-column {
@@ -1897,6 +1900,7 @@ a:focus {
   text-decoration: underline;
 }
 
+
 a:focus {
   outline: thin dotted;
   outline: 5px auto -webkit-focus-ring-color;
@@ -2348,7 +2352,7 @@ h3,
 }
 
 p {
-  margin: 0 0 24px;
+  margin: 10px 0 0;
 }
 
 .lead {
