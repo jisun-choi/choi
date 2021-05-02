@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jisun on CHOI.</title>
+    <title>CHOI.</title>
     <link>https://jisun-choi.github.io/choi/about/</link>
-    <description>Recent content in Jisun on CHOI.</description>
+    <description>Recent content on CHOI.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Apr 2021 13:12:48 +0900</lastBuildDate><atom:link href="https://jisun-choi.github.io/choi/about/index.xml" rel="self" type="application/rss+xml" />
