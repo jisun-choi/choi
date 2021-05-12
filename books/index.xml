@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on CHOI.</title>
+    <link>https://jisun-choi.github.io/choi/books/</link>
+    <description>Recent content in Books on CHOI.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jisun-choi.github.io/choi/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>판교의 젊은 기획자들</title>
+      <link>https://jisun-choi.github.io/choi/books/%ED%8C%90%EA%B5%90%EC%9D%98%EC%A0%8A%EC%9D%80%EA%B8%B0%ED%9A%8D%EC%9E%90%EB%93%A4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jisun-choi.github.io/choi/books/%ED%8C%90%EA%B5%90%EC%9D%98%EC%A0%8A%EC%9D%80%EA%B8%B0%ED%9A%8D%EC%9E%90%EB%93%A4/</guid>
+      <description>🌕 🌕 🌕 🌗  &amp;ldquo;보통의 사람들은 어느 날 갑자기 새로운 시장이 나타났다고 생각하겠지만 이것들은 이미 오랫동안 낡은 시장을 관찰하며 조금씩 틈을 찾아 세력을 확장해온 사람들이 만든 시장일 확률이 높습니다. 그리고 우리 삶을 획기적으로 변화시킨 &amp;lsquo;새로운 시장&amp;rsquo;은 지극히 평화롭고 영원히 지속될 것 같던 낡은 시장을 서서히 전복하다가 어느 날 갑자기 시장 전체를 완전히 파괴하며 등장하는 경우가 많습니다.&amp;rdquo; p.10
+  &amp;ldquo;앞으로 살아가며 일해야 할 날이 최소 20~30년이라면, 그 사이에도 세상은 계속해서 변화할 것이고 그렇다면 우리는 적게는 몇 번, 많게는 수십 번 새로운 시장을 맞이해야 할 것입니다.</description>
+    </item>
+    
+    <item>
+      <title>프리워커스</title>
+      <link>https://jisun-choi.github.io/choi/books/%ED%94%84%EB%A6%AC%EC%9B%8C%EC%BB%A4%EC%8A%A4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jisun-choi.github.io/choi/books/%ED%94%84%EB%A6%AC%EC%9B%8C%EC%BB%A4%EC%8A%A4/</guid>
+      <description>2021.May ©2021 CHOI.</description>
+    </item>
+    
+  </channel>
+</rss>
